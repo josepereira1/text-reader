@@ -3,7 +3,7 @@ Program that reads text files
 
 # How to test text-reader?
 
-- insert some text in text.txt;
+- insert some text in text.txt
 - make run
 
 # How to use text-reader library in your code?

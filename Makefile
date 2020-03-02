@@ -1,5 +1,5 @@
 run: 
-	gcc text-reader.c -o execute
+	gcc main.c text-reader.c -I text-reader.h -o execute
 	./execute
 
 cm: rm

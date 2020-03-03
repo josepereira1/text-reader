@@ -1,5 +1,5 @@
 # text-reader
-Program that reads text files
+Program that reads texts
 
 # How to test text-reader?
 

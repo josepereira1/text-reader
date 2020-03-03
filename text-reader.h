@@ -6,6 +6,6 @@
 @param filename - name of file
 @param size - maximum size of file
 */
-void speak_text_file(char* filename, int size);
+void reader_from_file(char* filename, int size);
 
 #endif

@@ -10,7 +10,7 @@
 @param filename - name of file
 @param size - maximum size of file
 */
-void speak_text_file(char* filename, int size){
+void reader_from_file(char* filename, int size){
 	int f, n;
 	char *buf1 = malloc(size*sizeof(char)), *buf2 = malloc((size+4)*sizeof(char));
 
